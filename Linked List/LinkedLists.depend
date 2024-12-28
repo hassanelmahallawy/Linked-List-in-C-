@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1735416135 source:c:\program files\section\linkedlists\main.cpp
+	<iostream>
+	"Lists.h"
+	<cstdlib>
+
+1735415107 c:\program files\section\linkedlists\include\lists.h
+
+1735416306 source:c:\program files\section\linkedlists\src\lists.cpp
+	"Lists.h"
+	<cstdlib>
+	<iostream>
+
